@@ -6,9 +6,28 @@ This project allows users to convert currencies in real-time with a clean UI and
 ---
 
 ## 🚀 Live Demo
- https://deepanshudevsinghal-debug.github.io/currency-converter/
+ https://deepanshudevsinghal.github.io/currency-converter/
 
----
+----
+
+ ## 🚀 Github Repository
+
+ Project Source Code :
+ https://github.com/deepanshudevsinghal/currency-converter.git
+
+----
+
+## 🚀 Screenshots
+
+## 📸 Game Preview
+
+![Dark Mode](currency-converter-screenshot(1).png)
+
+## 🏆 Winning State
+
+![Light Mode](currency-converter-screenshot(2).png)
+
+----
 
 ## 📌 Features
 
