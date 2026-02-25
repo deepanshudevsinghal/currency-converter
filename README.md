@@ -19,11 +19,11 @@ This project allows users to convert currencies in real-time with a clean UI and
 
 ## 🚀 Screenshots
 
-## 📸 Game Preview
+## 📸 Dark Mode
 
 ![Dark Mode](currency-converter-screenshot(1).png)
 
-## 🏆 Winning State
+## 📸 Light Mode
 
 ![Light Mode](currency-converter-screenshot(2).png)
 
